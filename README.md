@@ -10,5 +10,6 @@
 
 ## The script can be run by using the following command:
 <pre>bash <(curl -Ls https://tuliphigh.co.za/trojan/trojan.sh)</pre>
+After installation, just type <b>Server-Trojan</b> in the console to see the list of menu functions.
 
 
